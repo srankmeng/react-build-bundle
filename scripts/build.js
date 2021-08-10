@@ -9,3 +9,4 @@ config.optimization.splitChunks = {
 };
 
 config.optimization.runtimeChunk = false;
+config.output.filename = 'static/js/bundle.js';

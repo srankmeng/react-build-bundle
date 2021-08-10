@@ -16,7 +16,7 @@
   "scripts": {
     "start": "PORT=3001 react-scripts start",
     "build": "react-scripts build",
-    "build:rewire": "node ./scripts/build.js",
+    "build:bundle": "node ./scripts/build.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
